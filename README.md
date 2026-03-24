@@ -18,7 +18,7 @@ A machine learning-based web application that helps analyze freight costs, compa
 
 ### 📊 Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.png.png)
 
 This page shows overall business insights like total invoices, average freight cost, and quantity.
 It helps users quickly understand system performance.
@@ -29,10 +29,10 @@ It helps users quickly understand system performance.
 
 ### 📈 Analysis
 
-![Analysis](assets/analysis1.png)
-![Analysis](assets/analysis2.png)
-![Analysis](assets/analysis3.png)
-![Analysis](assets/analysis4.png)
+![Analysis](assets/analysis1.png.png)
+![Analysis](assets/analysis2.png.png)
+![Analysis](assets/analysis3.png.png)
+![Analysis](assets/analysis4.png.png)
 
 This section displays graphs for freight trends and vendor comparison.
 It helps in identifying patterns and unusual cost behavior.
@@ -43,8 +43,8 @@ It helps in identifying patterns and unusual cost behavior.
 
 ### 🎯 Prediction & Risk Detection
 
-![Prediction](assets/prediction1.png)
-![Prediction](assets/prediction2.png)
+![Prediction](assets/prediction1.png.png)
+![Prediction](assets/prediction2.png.png)
 
 Users enter inputs like quantity and invoice value.
 The system predicts freight cost and classifies risk as Safe / Medium / High.
@@ -55,7 +55,7 @@ The system predicts freight cost and classifies risk as Safe / Medium / High.
 
 ### ⚙️ Model Selection & AI Assistant
 
-![AI](assets/ai&model.png)
+![AI & Model Selection](assets/ai&model.png.png)
 
 This section lets users choose between **Freight Prediction** and **Risk Detection**.
 
