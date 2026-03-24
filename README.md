@@ -18,7 +18,7 @@ A machine learning-based web application that helps analyze freight costs, compa
 
 ### 📊 Dashboard
 
-![Dashboard](assets/dashboard.png.png)
+<img src="assets/dashboard.png.png" width="600">
 
 This page shows overall business insights like total invoices, average freight cost, and quantity.
 It helps users quickly understand system performance.
