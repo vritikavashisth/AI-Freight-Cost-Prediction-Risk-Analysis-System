@@ -74,7 +74,7 @@ The system predicts freight cost and classifies risk as Safe / Medium / High.
 ### ⚙️ Model Selection & AI Assistant
 
 <p align="center">
-  <img src="assets/ai&model.png.png" width="600" height="600">
+  <img src="assets/ai&model.png.png" width="400" height="600">
 </p>
 
 This section lets users choose between **Freight Prediction** and **Risk Detection**.
