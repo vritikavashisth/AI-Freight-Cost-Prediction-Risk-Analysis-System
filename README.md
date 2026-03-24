@@ -4,6 +4,22 @@ A machine learning-based web application that helps analyze freight costs, compa
 
 ---
 
+## 🎯 Project Impact
+
+This project is useful for businesses and logistics teams that deal with large volumes of vendor invoices and freight costs. Managing such data manually is time-consuming and often leads to errors or missed insights.
+
+This system helps by:
+
+* **Reducing costs:** It identifies invoices where freight charges are higher than expected, helping businesses control expenses.
+* **Improving vendor decisions:** By comparing vendor performance, it becomes easier to choose cost-efficient vendors.
+* **Detecting risks:** The system highlights unusual or abnormal transactions that may indicate errors or potential fraud.
+* **Saving time:** Automated analysis replaces manual checking of data, making the process faster and more reliable.
+* **Supporting data-driven decisions:** Instead of guesswork, decisions are based on actual data insights and model predictions.
+
+Overall, this project helps improve operational efficiency, reduce unnecessary costs, and make smarter business decisions.
+
+---
+
 ## 📌 Features
 
 * 📊 Dashboard with key insights
@@ -93,6 +109,22 @@ It also includes an AI assistant where users can ask queries like *highest vendo
 * Results are displayed using Streamlit
 
 ---
+## 🗄️ Database
+
+This project uses an SQLite database (`inventory.db`) to store vendor invoice data.
+
+It contains details such as vendor name, quantity, and freight cost, which are used for analysis and model predictions.
+
+👉 Used for:
+
+* Data storage
+* Dashboard metrics
+* Vendor analysis
+* Input for ML model
+
+👉 Integrated using: Pandas + SQLite
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -125,5 +157,6 @@ https://ai-freight-cost-prediction-risk-analysis-system-ipztyoxfkebtfb.streamlit
 ## 👤 Author
 
 Vritika Vashisth
+AI&ML Enthusiast
 
 ---
