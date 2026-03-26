@@ -34,18 +34,23 @@ Overall, this project helps improve operational efficiency, reduce unnecessary c
 
 ### 📊 Dashboard
 
-<p align="center">
-  <img src="assets/dashboard.png.png" width="600">
-</p>
-
 This page shows overall business insights like total invoices, average freight cost, and quantity.
 It helps users quickly understand system performance.
 
 👉 Built using: Pandas + Streamlit (columns & metrics)
 
+<p align="center">
+  <img src="assets/dashboard.png.png" width="600">
+</p>
+
 ---
 
 ### 📈 Analysis
+
+This section displays graphs for freight trends and vendor comparison.
+It helps in identifying patterns and unusual cost behavior.
+
+👉 Built using: Pandas (groupby) + Plotly charts
 
 <p align="center">
   <img src="assets/analysis1.png.png" width="600">
@@ -63,14 +68,14 @@ It helps users quickly understand system performance.
   <img src="assets/analysis4.png.png" width="600">
 </p>
 
-This section displays graphs for freight trends and vendor comparison.
-It helps in identifying patterns and unusual cost behavior.
-
-👉 Built using: Pandas (groupby) + Plotly charts
-
 ---
 
 ### 🎯 Prediction & Risk Detection
+
+Users enter inputs like quantity and invoice value.
+The system predicts freight cost and classifies risk as Safe / Medium / High.
+
+👉 Built using: Scikit-learn model + Joblib
 
 <p align="center">
   <img src="assets/prediction1.png.png" width="600">
@@ -80,24 +85,19 @@ It helps in identifying patterns and unusual cost behavior.
   <img src="assets/prediction2.png.png" width="600">
 </p>
 
-Users enter inputs like quantity and invoice value.
-The system predicts freight cost and classifies risk as Safe / Medium / High.
-
-👉 Built using: Scikit-learn model + Joblib
-
 ---
 
 ### ⚙️ Model Selection & AI Assistant
-
-<p align="center">
-  <img src="assets/ai&model.png.png" width="400" height="700">
-</p>
 
 This section lets users choose between **Freight Prediction** and **Risk Detection**.
 
 It also includes an AI assistant where users can ask queries like *highest vendor* or *most expensive vendor*, and get instant insights.
 
 👉 Built using: Pandas + Streamlit
+
+<p align="center">
+  <img src="assets/ai&model.png.png" width="400" height="700">
+</p>
 
 
 ## ⚙️ How It Works
