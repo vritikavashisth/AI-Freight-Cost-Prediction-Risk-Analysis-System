@@ -156,7 +156,10 @@ https://ai-freight-cost-prediction-risk-analysis-system-ipztyoxfkebtfb.streamlit
 
 ## 👤 Author
 
-Vritika Vashisth
-AI&ML Enthusiast
+**Vritika**
+AI/ML Enthusiast | Building Real-World Intelligent Systems
+
+🔗 GitHub: https://github.com/vritikavashisth
+🔗 LinkedIn: https://linkedin.com/in/vritikasharmaa
 
 ---
