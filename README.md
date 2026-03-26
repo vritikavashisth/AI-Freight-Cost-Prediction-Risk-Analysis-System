@@ -35,7 +35,7 @@ Overall, this project helps improve operational efficiency, reduce unnecessary c
 ### 📊 Dashboard
 
 This page shows overall business insights like total invoices, average freight cost, and quantity.
-It helps users quickly understand system performance.
+It helps users quickly understand system performance. 
 
 👉 Built using: Pandas + Streamlit (columns & metrics)
 
