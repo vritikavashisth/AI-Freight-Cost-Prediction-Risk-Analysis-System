@@ -150,7 +150,7 @@ python -m streamlit run app.py
 
 ## 🌐 Live Demo
 
-https://ai-freight-cost-prediction-risk-analysis-system-ipztyoxfkebtfb.streamlit.app
+https://ai-freight-cost-prediction-risk-analysis-system-n7yfarwgdebeju.streamlit.app/
 
 ---
 
